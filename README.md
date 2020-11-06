@@ -1,6 +1,6 @@
 # dockerized-app #
 
-Collection of configurations for apps which enables it to run as a docker container
+Docker Configurations for popular apps
 
 ### Prerequisite 
 * Docker setup and prior knowledge of docker and docker-compose
