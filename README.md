@@ -1,6 +1,6 @@
-# docker-apps #
+# awesome-apps-on-docker #
 
-Docker Configurations for popular apps
+Configurations for popular apps to run as a docker container
 
 ### Prerequisite 
 * Docker setup and prior knowledge of docker and docker-compose
