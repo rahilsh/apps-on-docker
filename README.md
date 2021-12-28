@@ -1,4 +1,4 @@
-# awesome-apps-on-docker #
+# apps-on-docker #
 
 
 Docker manifests for popular apps
