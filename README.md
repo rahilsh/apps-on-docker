@@ -30,3 +30,20 @@ docker run -d -p 80:80 --name docker-tutorial docker101tutorial
 docker tag docker101tutorial rahilsh/docker101tutorial
 docker push rahilsh/docker101tutorial
 ```
+
+## Docker commands   
+### Check image contents   
+```
+docker save nginx > nginx.tar
+tar -xvf nginx.tar
+```
+### To delete all containers including its volumes use,   
+```
+docker rm -vf $(docker ps -aq)
+```
+### To delete all the images   
+```
+docker rmi -f $(docker images -aq)
+```
+   
+
